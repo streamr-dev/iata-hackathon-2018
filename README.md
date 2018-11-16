@@ -1,6 +1,6 @@
 # Streamr - IATA Hackathon
 
-In this documentation we will outline the steps and tools needed to replicate the Cold Chain Monitoring demo we demostrated during the live webinar. In addition we will provide links to learn more about Streamr platform and how to us its API.
+In this documentation we will outline the steps and tools needed to replicate the Cold Chain Monitoring demo we demostrated during the live webinar. In addition we will provide links to learn more about Streamr platform and how to use its API.
 
 ## Streamr Cold Chain Monitoring Demo
 
