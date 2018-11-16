@@ -1,8 +1,20 @@
 # Streamr - IATA Hackathon
 
-In this documentation we will outline the steps and tools needed to replicate the Cold Chain Monitoring demo we demostrated during the live webinar. In addition we will provide links to learn more about Streamr platform and how to use its API.
+In this documentation we will outline the steps and tools needed to replicate the Cold Chain Monitoring demo we are demostrating during the live webinar. In addition we will provide links to learn more about Streamr platform and how to use its API. The webinar will be recorded, we will provide the link to the video in this page once it is ready.
+
+In this Webinar we will be covering two main aspects:
+- How to deploy smart contracts on the Ethereum public blockchain
+(We will be using Rinkeby testnet where we can get free ETH)
+- Handle large volumes of realtime data streams and create triggers to interact with smart contract functions in more automated way (via Streamr platform and API)
+
+We will be using a demo we have created, called “Cold Chain Monitoring”, to showcase the scenario above. 
 
 ## Streamr Cold Chain Monitoring Demo
+
+This demo is built around the pattern of a transportation company carrying refrigerated goods. 
+It's a pretty common use case around the world. We want to give clients a solution to monitor the journey of their products in a lightweight way. But this is not just about monitoring. They will also be allowed to set penalties in case the temperature inside the truck goes above a certain threshold - therefore spoiling the frozen food inside. And these penalties can be automatically paid out using pre-agreed smart contracts, saving time and money for all parties.  
+
+Streamr can handle large volumes of realtime data off-chain. It also permits interaction with on-chain Ethereum smart contracts via event triggers. Similar setups can be used for many industries, including airline applications leveraging blockchain. For example you could create a realtime data stream of flight arrival/departure schedule and trigger automated partial refunds for late flights. This problem is a major issue for the airline industry. 
 
 Before starting, below are few important links:
 
