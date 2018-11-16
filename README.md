@@ -24,6 +24,7 @@ First stage, tools setup:
     * Here is the [link](https://www.streamr.com/canvas/embed/8EJPdrh6TlaeSr7iat88kAJm-FI-jaTm6K-bHgtKe28A) to the canvas we have used for demo
     * Remember to change the GetContractAt module smart contract address with your deployed contract address
     * You can add Ethereum accounts in your Streamr Profile by pasting the private key from your Metamask account (IMPORTANT: use only expendable accounts, not your real personal one)
+    * Here is [the link](https://github.com/streamr-dev/ruuvi-streamr) to the NodeJs library we used to push Ruuvi tag sensor data to Streamr Network via Raspberry Pi
 
 You can find out more about Streamr API documentation at the following link http://streamrdev.com
 For any technical related question feel free to join our Telegram group https://t.me/streamrdata or the IATA Hackathon dedicated forum.
