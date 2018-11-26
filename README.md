@@ -41,4 +41,8 @@ First stage, tools setup:
 You can find out more about Streamr API documentation at the following link http://streamrdev.com
 For any technical related question feel free to join our Telegram group https://t.me/streamrdata or the IATA Hackathon dedicated forum.
 
-  
+## Tools used to mimick vehicle temperature 
+* Ruuvi self-contained temperature sensor [link](https://ruuvi.com/)
+* Raspberry Pi 3B as gateway to collect data from sensor and push it to Streamr via Node.js [link](https://en.wikipedia.org/wiki/Raspberry_Pi)
+![Ruuvi Sensor](http://streamrdev.com/wp-content/uploads/2018/11/ruuvitag-on-e1543246699187.png)
+![Raspberry Pi](http://streamrdev.com/wp-content/uploads/2018/11/Raspberry_Pi-e1543246673340.png)
