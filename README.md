@@ -1,5 +1,16 @@
 # Streamr - IATA Hackathon
+## Webinar Info
+**Time: Tuesday 27 Nov, from 2:00PM CET to 3:30PM CET**
 
+Please click the link below to join the webinar:
+
+https://zoom.us/j/125096940
+
+If you want to join audio separately via telephone, you can find your country phone number here https://zoom.us/u/akRSJJmKW
+
+Webinar ID: 125 096 940
+
+## Intro
 In this documentation we will outline the steps and tools needed to replicate the Cold Chain Monitoring demo we are demostrating during the live webinar. In addition we will provide links to learn more about Streamr platform and how to use its API. The webinar will be recorded, we will provide the link to the video in this page once it is ready.
 
 In this Webinar we will be covering two main aspects:
