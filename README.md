@@ -1,14 +1,5 @@
 # Streamr - IATA Hackathon
-## Webinar Info
-**Time: Tuesday 27 Nov, from 2:00PM CET to 3:30PM CET**
-
-Please click the link below to join the webinar:
-
-https://zoom.us/j/125096940
-
-If you want to join audio separately via telephone, you can find your country phone number here https://zoom.us/u/akRSJJmKW
-
-Webinar ID: 125 096 940
+[Link to recorded video](https://youtu.be/GfHQmVg-Elw)
 
 ## Intro
 In this documentation we will outline the steps and tools needed to replicate the Cold Chain Monitoring demo we are demostrating during the live webinar. In addition we will provide links to learn more about Streamr platform and how to use its API. The webinar will be recorded, we will provide the link to the video in this page once it is ready.
@@ -43,6 +34,9 @@ First stage, tools setup:
 1. Deploy Cold Chain Monitoring smart contract
 	* You can get sample codes from this [repository](https://github.com/streamr-dev/coldchain-demo/tree/master/contracts). You will see the simple version and a more complex one. During the webinar we will be using the simple version.
 	* Head to [Remix IDE](https://remix.ethereum.org/) to deploy your smart contract. Here is a [quick tutorial](https://remix.readthedocs.io/en/latest/run_tab.html) on how to use Remix.
+	* Link to our deployed [Cold Chain Monitoring smart contract](https://rinkeby.etherscan.io/address/0xb9aae9dbc39ed3236854395ff1135e6d35b48150#code)
+	* Link to our [ERC20 token deployed contract](https://rinkeby.etherscan.io/address/0xaad97af3cc97eef6b29b6ca2f4bdac02f7f7e241#code)
+	
 1. Create Streamr canvas to interact with realtime data stream and smart contract
     * Here is the [link](https://www.streamr.com/canvas/embed/8EJPdrh6TlaeSr7iat88kAJm-FI-jaTm6K-bHgtKe28A) to the canvas we have used for demo
     * Remember to change the GetContractAt module smart contract address with your deployed contract address
